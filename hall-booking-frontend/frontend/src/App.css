@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.booking-form {
+  margin: 20px auto;
+  width: 300px;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.booking-form input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.booking-list {
+  margin-top: 20px;
+}
+
+.booking-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.booking-list li {
+  border: 1px solid #ccc;
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.booking-list li strong {
+  font-size: 1.2em;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+}
