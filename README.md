@@ -1,10 +1,6 @@
-Here's the updated README file tailored to your use of Spring Boot for the backend:
-
----
-
 # Hall Booking System
 
-The Hall Booking System is a web application designed to manage hall bookings seamlessly. It provides functionalities to create, view, update, and delete hall booking entries. 
+The Hall Booking System is a basic web application designed to manage hall bookings. It provides functionalities to create, view, update, and delete hall booking entries. 
 
 ## Features
 
@@ -90,11 +86,5 @@ The Hall Booking System is a web application designed to manage hall bookings se
 ## Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
 
 Let me know if there’s anything else you’d like to include or modify!
